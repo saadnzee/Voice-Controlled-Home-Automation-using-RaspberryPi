@@ -1,4 +1,4 @@
-# projectIOT
+# Voice Controlled Home Automation using Raspberry Pi
 This Voice Controlled Home Automation system interprets voice commands captured by the microphone and allows 
 control over the 4-channel relay. This relay controls the breadboard that 
 controls the LED circuit. Integrating voltage sensor into the LED circuitry 
