@@ -9,8 +9,8 @@ This Voice Controlled Home Automation system interprets voice commands captured 
 
 - LED Circuit: Consist of multiple LEDs connected to a relay switch, which dynamically respond to user commands. This component adds a practical and visual dimension to the home automation experience.
 
-Voltage Sensor: Integrated into the LED circuits to allow real-time monitoring of electrical parameters. This sensor continuously collects data, providing insights into the performance and health of connected devices.
+- Voltage Sensor: Integrated into the LED circuits to allow real-time monitoring of electrical parameters. This sensor continuously collects data, providing insights into the performance and health of connected devices.
 
-ADC and I2C Module Integration: An ADC module converts analog sensor data into digital signals, which the Raspberry Pi reads to provide a more diverse set of input parameters for the monitoring system.
+- ADC and I2C Module Integration: An ADC module converts analog sensor data into digital signals, which the Raspberry Pi reads to provide a more diverse set of input parameters for the monitoring system.
 
-I2C Communication: Used between the ADC and Raspberry Pi, this two-wire serial communication protocol expands the range of sensors that can be integrated into the system.
+- I2C Communication: Used between the ADC and Raspberry Pi, this two-wire serial communication protocol expands the range of sensors that can be integrated into the system.
